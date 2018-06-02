@@ -1,0 +1,7 @@
+{
+  "export default": {
+    "prefix": "expd",
+    "body": ["export default ${1:Name}"],
+    "description": "export default"
+  }
+}
